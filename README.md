@@ -1,3 +1,18 @@
+# About The Project:
+
+This is the first weeks challenge. It's a main goal is to re-factor a code that was already provided to us. The due date for this challenge is December 5, 2021
+
+# Built with:
+
+    - HTML
+    - CSS
+
+# Getting Started:
+
+In order to run this application you need to go to the following link: https://benjamind10.github.io/urban-octo-telegram/
+
+---
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
