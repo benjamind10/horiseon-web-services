@@ -11,6 +11,7 @@ This is the first weeks challenge. It's a main goal is to re-factor a code that 
 
 In order to run this application you need to go to the following link: https://benjamind10.github.io/urban-octo-telegram/
 
+Instructions:
 ![Instructions](./assets/images/instructions.png)
 
 ---
