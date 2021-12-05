@@ -93,7 +93,6 @@ p {
   color: #ffffff;
 }
 
-/* Grouped Similar CSS properties */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -127,7 +126,6 @@ p {
   color: #ffffff;
 }
 
-/* Grouped Similar CSS properties */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -135,7 +133,6 @@ p {
   text-align: center;
 }
 
-/* Grouped Similar CSS properties */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -144,6 +141,7 @@ p {
   max-width: 150px;
 }
 
+/* Footer Section */
 .footer {
   padding: 30px;
   clear: both;
